@@ -22,7 +22,8 @@
         android:layout_width="70dp"
         android:layout_height="70dp"
         android:layout_centerInParent="true"
-        app:matProg_barColor="#5588FF" />
+        app:matProg_barColor="#5588FF"
+        android:visibility="invisible"/>
 
     <LinearLayout
         android:id="@+id/noInternet"
